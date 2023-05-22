@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shantell+Sans&size=50&pause=50&color=D83A7C&center=true&vCenter=true&width=1000&height=125&lines=Hi+There!%F0%9F%91%8B;This+is+Coolaid+%F0%9F%99%82)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Shantell+Sans&size=50&pause=50&color=D83A7C&center=true&vCenter=true&width=1000&height=125&lines=Hi+There!%F0%9F%91%8B;This+is+Coolaid+%F0%9F%99%82)
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/thestarship)
 
