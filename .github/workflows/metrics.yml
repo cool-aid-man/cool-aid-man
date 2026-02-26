@@ -22,4 +22,8 @@ jobs:
           base: header
           plugin_introduction: yes
           plugin_introduction_title: yes
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          
           config_timezone: America/Chicago
